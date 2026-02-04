@@ -34,7 +34,7 @@ Ana dizinde input.png isimli bir resim dosyası bulunmalıdır.
 2-Kodları derleyin
 
 3-Piksel Kasası'nı çalıştırın
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **🧠 Nasıl Çalışır?**
 ----------------------------
 Şifreleme: Girdiğiniz metin, belirlediğiniz 16 karakterlik anahtar ile AES algoritması kullanılarak okunamaz hale getirilir.
